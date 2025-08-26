@@ -4,6 +4,7 @@
 ## 🛠️ Installation
 
 Clone the repository:
+```bash
 git clone https://github.com/VireshShah17/Demo-Order-Generator.git
 cd Demo-Order-Generator
 
